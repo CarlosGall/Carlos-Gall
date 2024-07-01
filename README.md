@@ -8,27 +8,24 @@
 <br>
 
 
-
-	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Acerca de mí**
-
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **Acerca de mí**
 
 <br>
 
 - Un apasionado desarrollador Junior
 - Jugando Valorant y Smite en mi tiempo libre
 - Actualmente aprendiendo desarrollo Front y Back por mi cuenta
-- Sitio web personal [enlace]([https://www.perfilpersonal.ml](https://www.facebook.com/camelo.castillo?locale=es_LA)
+- Sitio web personal [enlace](https://www.perfilpersonal.ml)
 - Actualmente estoy abierto a una empresa para nuevas oportunidades laborales
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Habilidades</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Habilidades</b>
 <br>
 
 <p align="center">
+
 
 - **Lenguajes**:
     
@@ -92,26 +89,20 @@
 <ul>
 
 <li>
-<a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  [Carlos Gallego](https://www.linkedin.com/in/carlos-gallego-/)-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<a href="https://linkedin.com/in/carlos-gallego" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  [Carlos Gallego]-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
+
 
 <br>
 
 <li>
-<a href="https://twitter.com/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/whatsapp:  3003448996%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+<a href="mailto:Carlosprogramacion2017@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail: [Carlos Gallego]-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo Electrónico" style="margin-bottom: 5px;" />
 </a>
 </li>
 
-<br>
-
-<li>
-<a href="mailto:0xabdulkhalid@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  Carlosprogramacion2017@gmail.com%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
 	
 </ul>
 </div>
