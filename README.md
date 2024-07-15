@@ -1,12 +1,10 @@
 <h1 align="center"><b>Hola, soy Carlos Gallego </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=;Desarrollador+Junior,;Estudiante+de+Ingenieria+en+sistemas,;Aprendiz/Investigador,;Me+encanta+aprender+cosas+nuevas..<3"></a>
 </p>
 
-
 <br>
-
 
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **Acerca de mí**
 
@@ -24,8 +22,6 @@
 <br>
 
 <p align="center">
-
-
 
 - **Lenguajes**:
     
@@ -58,7 +54,6 @@
 -----
 
 <br>
-
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Estadísticas de Github </b>
 <br>
@@ -93,7 +88,6 @@
 </a>
 </li>
 
-
 <br>
 
 <li>
@@ -102,7 +96,6 @@
 </a>
 </li>
 
-	
 </ul>
 </div>
 
@@ -121,5 +114,3 @@
 <br>
 <br>
 <br>
-
-
